@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/IG-Kim2511/portfolio-shoeshop-2020-1116-build/static/css/main.15cc162a.chunk.css",
-    "main.js": "/IG-Kim2511/portfolio-shoeshop-2020-1116-build/static/js/main.355fee59.chunk.js",
-    "main.js.map": "/IG-Kim2511/portfolio-shoeshop-2020-1116-build/static/js/main.355fee59.chunk.js.map",
+    "main.js": "/IG-Kim2511/portfolio-shoeshop-2020-1116-build/static/js/main.5315eacd.chunk.js",
+    "main.js.map": "/IG-Kim2511/portfolio-shoeshop-2020-1116-build/static/js/main.5315eacd.chunk.js.map",
     "runtime-main.js": "/IG-Kim2511/portfolio-shoeshop-2020-1116-build/static/js/runtime-main.97de5757.js",
     "runtime-main.js.map": "/IG-Kim2511/portfolio-shoeshop-2020-1116-build/static/js/runtime-main.97de5757.js.map",
-    "static/js/2.ae83dce3.chunk.js": "/IG-Kim2511/portfolio-shoeshop-2020-1116-build/static/js/2.ae83dce3.chunk.js",
-    "static/js/2.ae83dce3.chunk.js.map": "/IG-Kim2511/portfolio-shoeshop-2020-1116-build/static/js/2.ae83dce3.chunk.js.map",
+    "static/js/2.3d6296fc.chunk.js": "/IG-Kim2511/portfolio-shoeshop-2020-1116-build/static/js/2.3d6296fc.chunk.js",
+    "static/js/2.3d6296fc.chunk.js.map": "/IG-Kim2511/portfolio-shoeshop-2020-1116-build/static/js/2.3d6296fc.chunk.js.map",
     "static/js/3.c87e46b8.chunk.js": "/IG-Kim2511/portfolio-shoeshop-2020-1116-build/static/js/3.c87e46b8.chunk.js",
     "static/js/3.c87e46b8.chunk.js.map": "/IG-Kim2511/portfolio-shoeshop-2020-1116-build/static/js/3.c87e46b8.chunk.js.map",
     "static/js/4.fb96192f.chunk.js": "/IG-Kim2511/portfolio-shoeshop-2020-1116-build/static/js/4.fb96192f.chunk.js",
     "static/js/4.fb96192f.chunk.js.map": "/IG-Kim2511/portfolio-shoeshop-2020-1116-build/static/js/4.fb96192f.chunk.js.map",
     "index.html": "/IG-Kim2511/portfolio-shoeshop-2020-1116-build/index.html",
-    "precache-manifest.16a50c52518cc15b926ed1235234436b.js": "/IG-Kim2511/portfolio-shoeshop-2020-1116-build/precache-manifest.16a50c52518cc15b926ed1235234436b.js",
+    "precache-manifest.682a489c6c4fa23c4822f57f156f4ddb.js": "/IG-Kim2511/portfolio-shoeshop-2020-1116-build/precache-manifest.682a489c6c4fa23c4822f57f156f4ddb.js",
     "service-worker.js": "/IG-Kim2511/portfolio-shoeshop-2020-1116-build/service-worker.js",
     "static/css/main.15cc162a.chunk.css.map": "/IG-Kim2511/portfolio-shoeshop-2020-1116-build/static/css/main.15cc162a.chunk.css.map",
-    "static/js/2.ae83dce3.chunk.js.LICENSE.txt": "/IG-Kim2511/portfolio-shoeshop-2020-1116-build/static/js/2.ae83dce3.chunk.js.LICENSE.txt"
+    "static/js/2.3d6296fc.chunk.js.LICENSE.txt": "/IG-Kim2511/portfolio-shoeshop-2020-1116-build/static/js/2.3d6296fc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.97de5757.js",
-    "static/js/2.ae83dce3.chunk.js",
+    "static/js/2.3d6296fc.chunk.js",
     "static/css/main.15cc162a.chunk.css",
-    "static/js/main.355fee59.chunk.js"
+    "static/js/main.5315eacd.chunk.js"
   ]
 }
