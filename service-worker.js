@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/IG-Kim2511/portfolio-shoeshop-2020-1116-build/precache-manifest.8f310a2606e116c18c7ab3653260b051.js"
+  "/IG-Kim2511/portfolio-shoeshop-2020-1116-build/precache-manifest.16a50c52518cc15b926ed1235234436b.js"
 );
 
 self.addEventListener('message', (event) => {
